@@ -8,6 +8,8 @@
 You must have npm installed on your computer. From the root project directory run these commands from the command line:
 
 npm install
+
+
 This will install all dependencies.
 
 The generated project includes a live-reloading static server on port `8080` (you can change the port in the `gulpfile.js` config), which will build, launch, and rebuild the app whenever you change application code. To start the server, run:
