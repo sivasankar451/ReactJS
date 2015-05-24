@@ -1,0 +1,31 @@
+
+.size {
+    font-size: 35px !important;
+  }
+  .center {
+  	text-align: center !important;
+  }
+  .margin {
+  	margin-top: 50px !important;
+  }
+  .padding {
+  	padding-top: 0px !important;
+  }
+  .margin-left {
+  	margin-left: 50px !important;
+  }
+  .button-margin-top {
+  	margin-top: 40px !important;
+  	padding : 10px !important;
+  	width: 90px !important;
+  }
+  .label-color {
+  	background-color: #F7F4F4 !important;
+  	color: #612525 !important;
+  }
+  .table-margin-top {
+  	margin-top: 15px ;
+  }
+  .table-text-align {
+  	text-align: center;
+  }
